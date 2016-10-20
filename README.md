@@ -1,7 +1,7 @@
 # comp150-cpd
 
 ## Week 1: 19 September
-This week we worked in teams to build and program a Lego Mindstorm Robot.  Although I was apprehensive about the teamwork, I managed to participate. On the Monday, we had a lecture, which I found harder than the Lego Robot workshops. I find it difficult to concentrate in the lecture and seminar rooms as everyone is bunched up together and there is less personal space. To manage this, it is best to keep up attendance so that I am used to the routine and environment.
+This week we worked in teams to build and program a Lego Mindstorm Robot. 
 
 ## Week 2: 26 September
 In teams, we were asked to design prototypes for two different board games. On the first game, we did not manage to complete a working prototype of the game, as we spent too long on ideation. For the next game, we prioritised designing the paper prototype, making it possible to present our concept to the class. I found the first few sections of the research paper, 'When does a physical system compute?', challenging and I delayed reading on. However, having now finished the paper, I have found that earlier sections became clearer as I progressed. For the next assigned paper, I will try not to panic if at first I do not fully understand it.
