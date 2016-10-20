@@ -1,7 +1,7 @@
 # comp150-cpd
 
 ## Week 1: 19 September
-This week we worked in teams to build and program a Lego Mindstorm Robot. 
+This week we worked in teams to build and program a Lego Mindstorm Robot. The most difficult part of this was the accuracy needed to complete the Space Challenge tasks. Our team used trial and error to get the robot on the right path, rather than using the sensors, this worked for us and we managed to complete all the tasks in the demonstration. I found our first course lecture challenging, as there is little personal space in the seminar rooms making it harder to concentrate. To manage this, I need to get used to the environment and routine of classes.
 
 ## Week 2: 26 September
 In teams, we were asked to design prototypes for two different board games. On the first game, we did not manage to complete a working prototype of the game, as we spent too long on ideation. For the next game, we prioritised designing the paper prototype, making it possible to present our concept to the class. I found the first few sections of the research paper, 'When does a physical system compute?', challenging and I delayed reading on. However, having now finished the paper, I have found that earlier sections became clearer as I progressed. For the next assigned paper, I will try not to panic if at first I do not fully understand it.
