@@ -131,8 +131,12 @@
 
 <h3>Week 9: 14 November</h3>
 <h4>Progress</h4>
+•	Submitted Tinkering Graphics assignment.
 
 <h4>Challenges</h4>
+•	Struggled to set up Travis for Comp150 game project.
+
+•	Taking my dog to York to weekend made it difficult to manage workload.
 
 <h4>Action</h4>
 
