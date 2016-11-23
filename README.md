@@ -111,10 +111,23 @@
 
 <h3>Week 8: 7 November</h3>
 <h4>Progress</h4>
+•	First sprint review. 
+
+•	Began coding audio.
 
 <h4>Challenges</h4>
+•	Our User Stories were too broad.
+
+•	Had too many User Stories in our sprint backlog.
+
+•	Found it difficult to understand task set in Tinkering Audio.
 
 <h4>Action</h4>
+•	Set less tasks in sprint backlog and be more realistic about time restraints in a sprint.
+
+•	Go over session slides from Comp120.
+
+•	Define exactly what is needed to complete a User Story.
 
 <h3>Week 9: 14 November</h3>
 <h4>Progress</h4>
