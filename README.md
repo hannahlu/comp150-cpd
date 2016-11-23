@@ -37,17 +37,35 @@
 
 <h3>Week 3: 3 October</h3>
 <h4>Progress</h4>
+•	Designed paper prototype for text-based adventure game.
 
 <h4>Challenges</h4>
+•	Narrowing down ideas into a cohesive concept in our team.
+
+•	Being overambitious by trying to create both a paper and program prototype in class.
+
+•	Understanding purpose and writing style of User Stories.
 
 <h4>Action</h4>
+•	Appoint someone to lead game ideation and prototype design.
+
+•	Use mind-map to take note of everyone’s ideas.
+
+•	Read up on User Stories.
 
 <h3>Week 4: 10 October</h3>
 <h4>Progress</h4>
+•	Improved understanding of computer logic gates and memory.
+
+•	Started using version control in GitHub.
 
 <h4>Challenges</h4>
+•	Concentration in lecture on manipulating graphics.
 
 <h4>Action</h4>
+•	Go over session slides for Comp120 class.
+
+•	Set up a session with pair programming group.
 
 <h3>Week 5: 17 October</h3>
 <h4>Progress</h4>
@@ -58,10 +76,17 @@
 
 <h3>Week 6: 24 October</h3>
 <h4>Progress</h4>
+•	Delivered pitch for game concept to class.
 
 <h4>Challenges</h4>
+•	Pitch was to short and noise of handout due to shaking was distracting.
 
 <h4>Action</h4>
+•	Printing off more handouts for pitch, to help audience take in information and get a better idea of concept.
+
+•	Don’t just read off handout, try to memorise pitch and add more information than contained in handout.
+
+•	Develop techniques for managing nerves when presenting a pitch.
 
 <h3>Week 7: 31 October</h3>
 <h4>Progress</h4>
