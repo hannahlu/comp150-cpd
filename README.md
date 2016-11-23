@@ -18,7 +18,23 @@
 
 
 ## Week 2: 26 September
-In teams, we were asked to design prototypes for two different board games. On the first game, we did not manage to complete a working prototype of the game, as we spent too long on ideation. For the next game, we prioritised designing the paper prototype, making it possible to present our concept to the class. I found the first few sections of the research paper, 'When does a physical system compute?', challenging and I delayed reading on. However, having now finished the paper, I have found that earlier sections became clearer as I progressed. For the next assigned paper, I will try not to panic if at first I do not fully understand it.
+<h4>Progress:</h4> 
+•	Practiced game ideation and designing paper prototypes.
+
+•	Read first research paper.
+
+<h4>Challenges:</h4>
+•	Spending majority of our allocated time on game ideation rather than building a working prototype.
+
+•	Finding research paper, ‘Why does a physical system compute’ intimidating, and delaying completion.
+
+<h4>Action:</h4>
+•	Make use of mind-maps to note group member’s ideas and help form a cohesive concept.
+
+•	Limit time spent on ideation and focus on creating a working prototype to demo to rest of class.
+
+•	Continue through harder parts of paper, the information may become clearer in later sections. Try to avoid feeling panicked if at first I do not understand.
+
 
 ## Week 3: 3 October
 For this week’s assignment, I found it difficult to write the pseudocode without a bias towards Python. Looking at examples of pseudocode online helped me find more universal terms. During our text-based adventure game task, my team and I struggled to narrow down our ideas and to move from ideation to creating a working prototype. We had experienced similar problems last week, so it is important to address this. In regards to this week's task, we made things more complicated than necessary, by trying to design both a paper and a program prototype. Had we focused on just the paper prototype we could have created a functioning prototype in the time given. I also need to improve my understanding of how to use User Stories effectively and to practice using the PyGame library at home. 
