@@ -95,10 +95,19 @@
 
 <h3>Week 7: 31 October</h3>
 <h4>Progress</h4>
+•	Presented proposals for Agile essays.
+
+•	Peer-Reviewed Tinkering Graphics code.
 
 <h4>Challenges</h4>
+•	Reviewing code of my peer’s, was difficult as was unsure of PEP 8 guidelines.
+
+•	Anxiety making it difficult to concentrate in lectures.
 
 <h4>Action</h4>
+•	Using Study Skills sessions to find techniques for managing anxiety.
+
+•	Reading up on PEP 8 guidelines and implementing in my own Tinkering Graphics code.
 
 <h3>Week 8: 7 November</h3>
 <h4>Progress</h4>
