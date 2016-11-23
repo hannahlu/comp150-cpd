@@ -83,10 +83,15 @@
 
 <h3>Week 6: 24 October</h3>
 <h4>Progress</h4>
+•	Had first team stand-up meeting.
+
+•	Began using Trello.
 
 <h4>Challenges</h4>
+•	Finding it difficult to write code during class sessions rather than at home.
 
 <h4>Action</h4>
+•	Try and use time constructively in class, if behind, first go over what I am unsure on before moving onto class task.
 
 <h3>Week 7: 31 October</h3>
 <h4>Progress</h4>
