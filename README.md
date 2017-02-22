@@ -1,3 +1,54 @@
+# comp160-cpd
+
+## Week 1: 23 - 29 January
+### Progress
+* Organised meeting with programmers for Comp130 game
+* Started designing website for game
+* Wrote blueprint for raycast to turn on/off point light
+* Communicating better with comp130 game team
+
+##Challenges
+* Need to ensure minimum 9 hours per week for programming practice. Maybe charting hours each day could help me keep track.
+* Easily distracted in lectures, could be using the time better.
+* Finding Worksheet B very difficult 
+
+## Week 2: 30 - 3 January 
+### Progress
+* Trigger audio with raycast
+* Completed Worksheet B
+
+## Challenges
+* Spent a long time trying to trigger animations with raycast, unfortunatly the animations had not been built correctly
+* Although I am attending all daily stand-ups, I am finding the amount of social interaction hard.
+* Sometimes a little stressful having to be messenger between programmers and rest of comp130 game team.W
+
+## Week 3: 6 - 10 February
+### Progress
+* Wrote Pickup Inventory blueprint, using widget slots (Items are not equipable yet)
+* Wrote blueprint for toggling all lights in room by raycasting switch
+* Started research journal
+
+### Challenges
+* Blocked on desgining an idea for game controller. 
+* Unsure how to inherit functions when inheriting blueprint from parent class.
+* Difficult to priortise between game project and other coursework. 
+* Seem to spending a lot of time on unreal blueprint with little results. 
+* Missed COMP 160 lecture and unsure about design patterns. Need to read up and try to write some for game to get idea.
+
+## Week 4: 13 - 17 February
+### Progress
+* Wrote essay proposal question
+* Items appear in specfic slots in inventory in game
+* Can now open doors if keycard is present in inventory
+
+### Challenges
+* Missed Product Owner meeting.
+* Have not been commenting on blueprints, making it difficult for others to understand.
+* Falling behind on worksheets as focusing on game project.
+* SVN version control issues in game project.
+* Would like to focus on C++ rather than blueprints in unreal
+* Bad week in terms of health, forgot to take my medication for seven days.
+
 # comp150-cpd
 
 <h3>Week 1: 19 September</h3>
