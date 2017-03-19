@@ -49,6 +49,50 @@
 * Would like to focus on C++ rather than blueprints in unreal
 * Bad week in terms of health, forgot to take my medication for seven days.
 
+## Week 5:
+## Progress
+* Have been commenting my blueprints 
+* Completed worksheet C
+* Have been communicating in course fb and slack groups more
+
+### Challenges
+* 
+*
+*
+
+## Week 6:
+### Progess
+* Have been contributing to Research Wiki more often than last semester
+* Implemented basic phone widget in comp160 game 
+
+### Challenges
+* Having work saved over on SVN by team members, so having to re-do work again
+* 
+*
+
+## Week 7:
+### Challenges
+* Finding concentration in Comp160 lectures difficult 
+* 
+*
+
+## Week 8:
+### Progress
+*
+*
+
+### Challenges
+* Balancing other responsibiltes with study
+* Concentration in studio 
+* Having work saved over on SVN by team members, so having to re-do work again
+
+## Five Key Skills
+* Concentration, alone and in groups/class
+* Balancing responsibilties, more focused study time
+* C++ practice time
+* Version Control, make sure whole team understands it, set up svn.ignore and try to make as user friendly as possible
+* 
+
 # comp150-cpd
 
 <h3>Week 1: 19 September</h3>
