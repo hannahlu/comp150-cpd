@@ -9,7 +9,7 @@
 
 ##Challenges
 * Need to ensure minimum 9 hours per week for programming practice. Maybe charting hours each day could help me keep track.
-* Easily distracted in lectures, could be using the time better.
+* Easily distracted in lectures, could be using the time bet4eter.
 * Finding Worksheet B very difficult 
 
 ## Week 2: 30 - 3 January 
@@ -91,7 +91,7 @@
 * Balancing responsibilties, more focused study time
 * C++ practice time
 * Version Control, make sure whole team understands it, set up svn.ignore and try to make as user friendly as possible
-* 
+* Use of Software Engineering Practices: Ontology, UML etc
 
 # comp150-cpd
 
