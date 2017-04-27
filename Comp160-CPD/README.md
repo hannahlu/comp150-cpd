@@ -1,6 +1,6 @@
 # comp160-cpd
 
-## Week 1: 23 - 29 January
+## Week 1
 ### Progress
 * Organised meeting with programmers for Comp130 game
 * Started designing website for game
@@ -12,7 +12,7 @@
 * Easily distracted in lectures, could be using the time bet4eter.
 * Finding Worksheet B very difficult 
 
-## Week 2: 30 - 3 January 
+## Week 2
 ### Progress
 * Trigger audio with raycast
 * Completed Worksheet B
@@ -22,7 +22,7 @@
 * Although I am attending all daily stand-ups, I am finding the amount of social interaction hard.
 * Sometimes a little stressful having to be messenger between programmers and rest of comp130 game team.W
 
-## Week 3: 6 - 10 February
+## Week 3
 ### Progress
 * Wrote Pickup Inventory blueprint, using widget slots (Items are not equipable yet)
 * Wrote blueprint for toggling all lights in room by raycasting switch
@@ -35,7 +35,7 @@
 * Seem to spending a lot of time on unreal blueprint with little results. 
 * Missed COMP 160 lecture and unsure about design patterns. Need to read up and try to write some for game to get idea.
 
-## Week 4: 13 - 17 February
+## Week 4
 ### Progress
 * Wrote essay proposal question
 * Items appear in specfic slots in inventory in game
